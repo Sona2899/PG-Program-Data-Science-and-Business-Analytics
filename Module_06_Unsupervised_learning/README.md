@@ -1,12 +1,12 @@
-Trade & Ahead - Unsupervised Learning
+# Trade & Ahead - Unsupervised Learning
 
-📌 Problem Statement
+## 📌 Problem Statement
 Optimize stock portfolios for Trade & Ahead's clients by conducting cluster analysis on stock price and financial indicator data. The goal is to identify distinct stock groups with similar characteristics to help build diversified portfolios that balance risk and return, enhancing investment performance and mitigating potential losses.
 
-🔍 Project Overview
+## 🔍 Project Overview
 This project applies unsupervised machine learning techniques to group stocks with similar financial characteristics. Clustering algorithms such as K-Means and Hierarchical Clustering are used after proper data scaling and preprocessing. Cluster evaluation metrics like Silhouette Score and Cophenetic Correlation are applied to validate the results, and dimensionality reduction helps visualize the clusters effectively.
 
-🧠 Key Analysis
+## 🧠 Key Analysis
 - Exploratory Data Analysis (EDA) and visualization  
 - Data scaling and preparation  
 - Clustering using K-Means and Hierarchical methods  
@@ -14,7 +14,7 @@ This project applies unsupervised machine learning techniques to group stocks wi
 - Dimensionality reduction for visualization  
 - Cluster profiling and interpretation  
 
-🧰 Skills & Tools Covered
+## 🧰 Skills & Tools Covered
 - Python  
 - Exploratory Data Analysis (EDA)  
 - Data Scaling  
@@ -26,7 +26,7 @@ This project applies unsupervised machine learning techniques to group stocks wi
 - Dimensionality Reduction  
 - Cluster Profiling  
 
-📈 Outcome
+## 📈 Outcome
 - Identified distinct clusters of stocks based on financial indicators  
 - Insights for constructing diversified client portfolios  
 - Recommendations to balance risk and return for enhanced investment performance  
